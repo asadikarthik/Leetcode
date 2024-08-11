@@ -1,29 +1,22 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int slow=0;
+        int count=1;
         for(int i=0;i<nums.length;i++)
         {
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-        }
-        ArrayList<Integer> al = new ArrayList<>();
-        for(int i:map.keySet())
-        {
-            if(map.get(i)>=2)
+            if(i>0 && nums[i]==nums[i-1])
             {
-                map.put(i,2);
-                al.add(i);
-                al.add(i);
+                count++;
             }
             else
             {
-                al.add(i);
+                count=1;
+            }
+            if(count<=2)
+            {
+                nums[slow++]=nums[i];
             }
         }
-        Collections.sort(al);
-        for(int i=0;i<al.size();i++)
-        {
-            nums[i]=al.get(i);
-        }
-        return al.size();
+        return slow;
     }
 }
