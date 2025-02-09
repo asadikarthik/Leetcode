@@ -1,17 +1,18 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int count=0;
 
         for(int i=0;i<nums.length-1;i++)
         {
-            for(int j=i;j<nums.length;j++)
+            for(int j=i+1;j<nums.length;j++)
             {
                 if(nums[i]==nums[j])
                 {
-                    map.put(i,j);
+                    count++;
+                    //System.out.println("( "+i+", "+j+" )");
                 }
             }
         }
-        return map.size();
+        return count;
     }
 }
