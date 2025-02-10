@@ -9,7 +9,6 @@ class Solution {
                 if(nums[i]==nums[j])
                 {
                     count++;
-                    //System.out.println("( "+i+", "+j+" )");
                 }
             }
         }
