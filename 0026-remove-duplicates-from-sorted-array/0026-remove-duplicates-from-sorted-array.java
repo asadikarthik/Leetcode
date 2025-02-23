@@ -1,18 +1,24 @@
 class Solution {
-    public int removeDuplicates(int[] nums) {
+    public int removeDuplicates(int[] nums){
+        
         HashMap<Integer,Integer> map = new HashMap<>();
-        int j=0;
         for(int i=0;i<nums.length;i++)
         {
-            map.putIfAbsent(nums[i],0);
-            
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
-        List<Integer> al = new ArrayList<>(map.keySet());
-        Collections.sort(al);
-        for(int i=0;i<al.size();i++)
+        for(int i=0;i<nums.length;i++)
         {
-            nums[j++]=al.get(i);
+            nums[i]=0;
         }
-        return j;
+        int j=0,count=0;
+        ArrayList<Integer> al = new ArrayList<>(map.keySet());
+        Collections.sort(al);
+        for(int i:al)
+        {
+            nums[j++]=i;
+            count++;
+        }
+
+        return count;
     }
 }
