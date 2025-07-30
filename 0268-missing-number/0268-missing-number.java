@@ -1,28 +1,18 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        if(nums[0]!=0)
+        boolean arr[]=new boolean[nums.length+1];
+
+        for(int i=0;i<nums.length;i++)
         {
-            return 0;
+            arr[nums[i]]=true;
         }
-        if(nums[nums.length-1]!=nums.length)
+        for(int i=0;i<arr.length;i++)
         {
-            return nums.length;
-        }
-        else
-        {
-            for(int i=0; i<nums.length-1;i++)
+            if(!arr[i])
             {
-                if(nums[i]+1==nums[i+1])
-                {
-                    continue;
-                }
-                else
-                {
-                    return nums[i]+1;
-                }
+                return i;
             }
         }
-        return 1;
+        return 0;
     }
 }
