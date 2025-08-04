@@ -9,7 +9,7 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
             char x = s.charAt(i);
-            //System.out.println((int)x);
+            
             if( (int)x>=65 && (int)x <=90 )
             {
                 result+=s.charAt(i);
@@ -24,13 +24,13 @@ class Solution {
             }
         }
         String k  = result.toLowerCase();
-        //System.out.println(k);
+        
         String rev="";
         for(int i=k.length()-1;i>=0;i--)
         {
             rev+= k.charAt(i);
         }
-        //System.out.println(rev);
+        
         if(k.compareTo(rev) == 0)
         {
             return true;
