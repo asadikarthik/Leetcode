@@ -24,30 +24,6 @@ class Solution {
             }
         }
 
-        
-
         return new ArrayList<>(s);
-       
-        // Set<List<Integer>> resultSet = new HashSet<>();
-        // int n = nums.length;
-
-        // for (int i = 0; i < n - 2; i++) {
-        //     Set<Integer> seen = new HashSet<>();
-        //     for (int j = i + 1; j < n; j++)
-        //     {
-        //         int x = 0 - (nums[i] + nums[j]);
-        //         if (seen.contains(x))
-        //         {
-        //             List<Integer> triplet = Arrays.asList(nums[i], nums[j], x);
-        //             Collections.sort(triplet); 
-        //             resultSet.add(triplet);
-        //         }
-        //         else{
-        //             seen.add(nums[j]);
-        //         }
-        //     }
-        // }
-
-        // return new ArrayList<>(resultSet);
     }
 }
