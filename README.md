@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/asadikarthik/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
