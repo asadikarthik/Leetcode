@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/asadikarthik/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
