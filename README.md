@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/asadikarthik/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -59,10 +60,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/asadikarthik/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/asadikarthik/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/asadikarthik/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/asadikarthik/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/asadikarthik/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
