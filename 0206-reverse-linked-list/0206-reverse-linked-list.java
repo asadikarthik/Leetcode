@@ -15,20 +15,12 @@ class Solution {
         {
             return head;
         }
-        ListNode pre = head;
-        ListNode curr= head.next;
+         
+        ListNode newnode = reverseList(head.next);
 
-        while(curr!=null)
-        {
-            ListNode nextnode= curr.next;
-            curr.next = pre;
+        head.next.next= head;
+        head.next = null;
 
-            pre =curr;
-            curr= nextnode;
-        }
-
-        head.next=null;
-
-        return pre;
+        return newnode;
     }
 }
