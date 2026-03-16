@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/asadikarthik/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asadikarthik/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
