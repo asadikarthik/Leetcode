@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/asadikarthik/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/asadikarthik/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/asadikarthik/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/asadikarthik/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/asadikarthik/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/asadikarthik/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
