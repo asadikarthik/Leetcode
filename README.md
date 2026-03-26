@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asadikarthik/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/asadikarthik/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1446-consecutive-characters](https://github.com/asadikarthik/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1759-count-number-of-homogenous-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/asadikarthik/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
