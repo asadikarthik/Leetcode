@@ -18,7 +18,6 @@ public class Solution {
 
         while (p1 != p2) {
             
-            // move pointer or switch list
             p1 = (p1 == null) ? headB : p1.next;
             p2 = (p2 == null) ? headA : p2.next;
         }
