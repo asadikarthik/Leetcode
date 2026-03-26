@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/asadikarthik/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/asadikarthik/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/asadikarthik/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asadikarthik/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/asadikarthik/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/asadikarthik/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/asadikarthik/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
