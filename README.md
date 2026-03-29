@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/asadikarthik/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/asadikarthik/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [2507-number-of-common-factors](https://github.com/asadikarthik/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/asadikarthik/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1922-count-good-numbers](https://github.com/asadikarthik/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
