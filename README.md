@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/asadikarthik/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/asadikarthik/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/asadikarthik/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/asadikarthik/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/asadikarthik/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/asadikarthik/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/asadikarthik/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/asadikarthik/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asadikarthik/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Recursion
@@ -161,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asadikarthik/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/asadikarthik/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asadikarthik/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/asadikarthik/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/asadikarthik/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/asadikarthik/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Design
 | Problem Name | Difficulty |
