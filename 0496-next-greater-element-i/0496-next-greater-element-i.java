@@ -7,7 +7,7 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
 
         for (int num : nums2) {
-            while (!stack.isEmpty() && stack.peek() < num) {
+            while (!stack.isEmpty() && stack.peek() <= num) {
                 map.put(stack.pop(), num);
             }
             stack.push(num);
