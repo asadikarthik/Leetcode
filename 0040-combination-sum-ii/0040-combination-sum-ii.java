@@ -4,7 +4,7 @@ class Solution {
 
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(candidates); // 🔥 VERY IMPORTANT
+        Arrays.sort(candidates); 
         backtrack(0, candidates, target, new ArrayList<>(), result);
         return result;
     }
@@ -19,17 +19,15 @@ class Solution {
 
         for (int i = start; i < arr.length; i++) {
 
-            // 🔥 Skip duplicates
             if (i > start && arr[i] == arr[i - 1]) continue;
 
-            if (arr[i] > target) break; // optimization
+            if (arr[i] > target) break;
 
             current.add(arr[i]);
 
-            // move forward (no reuse)
             backtrack(i + 1, arr, target - arr[i], current, result);
 
-            current.remove(current.size() - 1); // backtrack
+            current.remove(current.size() - 1); 
         }
     }
 }
