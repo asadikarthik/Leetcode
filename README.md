@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/asadikarthik/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/asadikarthik/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/asadikarthik/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -268,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/asadikarthik/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/asadikarthik/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
