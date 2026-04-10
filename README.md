@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/asadikarthik/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/asadikarthik/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/asadikarthik/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/asadikarthik/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/asadikarthik/Leetcode/tree/main/0078-subsets/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 | Problem Name | Difficulty |
@@ -282,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/asadikarthik/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/asadikarthik/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/asadikarthik/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0216-combination-sum-iii](https://github.com/asadikarthik/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
