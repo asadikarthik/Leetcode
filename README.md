@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/asadikarthik/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/asadikarthik/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/asadikarthik/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/asadikarthik/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/asadikarthik/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/asadikarthik/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
