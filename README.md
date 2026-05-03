@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/asadikarthik/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/asadikarthik/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/asadikarthik/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/asadikarthik/Leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/asadikarthik/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/asadikarthik/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/asadikarthik/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/asadikarthik/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/asadikarthik/Leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/asadikarthik/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/asadikarthik/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/asadikarthik/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/asadikarthik/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/asadikarthik/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/asadikarthik/Leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/asadikarthik/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/asadikarthik/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -318,5 +321,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/asadikarthik/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/asadikarthik/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
