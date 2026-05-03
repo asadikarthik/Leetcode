@@ -9,8 +9,8 @@ class Solution {
     private int dfs(TreeNode root) {
         if (root == null) return 0;
         
-        int left = Math.max(0, dfs(root.left));   // ignore negative
-        int right = Math.max(0, dfs(root.right)); // ignore negative
+        int left = Math.max(0, dfs(root.left));   
+        int right = Math.max(0, dfs(root.right));
         
         // path THROUGH node
         int currentPath = left + right + root.val;
