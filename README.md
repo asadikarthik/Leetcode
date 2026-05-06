@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/asadikarthik/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/asadikarthik/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/asadikarthik/Leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asadikarthik/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/asadikarthik/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/asadikarthik/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
