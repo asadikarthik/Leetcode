@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/asadikarthik/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/asadikarthik/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0055-jump-game](https://github.com/asadikarthik/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/asadikarthik/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/asadikarthik/Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/asadikarthik/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/asadikarthik/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/asadikarthik/Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asadikarthik/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/asadikarthik/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
