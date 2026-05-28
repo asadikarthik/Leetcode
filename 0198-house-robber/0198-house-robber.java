@@ -1,28 +1,20 @@
 class Solution {
     public int rob(int[] nums) {
-        int[] dp = new int[nums.length];
-        Arrays.fill(dp, -1);
-        return house(nums.length-1,nums,dp);
-    }
+        int prev2 =0;
+        int prev1 =nums[0];
+        int n =nums.length;
 
-    public int house(int n,int[] nums,int[] dp)
-    {
-        if(n<0)
+        for(int i=1;i<n;i++)
         {
-            return 0;
-        }
-        if(n==0)
-        {
-            return nums[0];
-        }
-
-        if(dp[n]!=-1)
-        {
-            return dp[n];
+            int pick = nums[i];
+            if (i > 1)
+                pick += prev2;
+            int notpick = 0 + prev1;
+            int curr = Math.max(pick,notpick);
+            prev2= prev1;
+            prev1 = curr;
         }
 
-        int pick = nums[n] + house(n-2,nums,dp);
-        int notpick = 0 + house(n-1,nums,dp);
-        return dp[n]= Math.max(pick,notpick);
+        return prev1;
     }
 }
