@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/asadikarthik/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/asadikarthik/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0198-house-robber](https://github.com/asadikarthik/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0216-combination-sum-iii](https://github.com/asadikarthik/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0260-single-number-iii](https://github.com/asadikarthik/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/asadikarthik/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/asadikarthik/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Linked List
