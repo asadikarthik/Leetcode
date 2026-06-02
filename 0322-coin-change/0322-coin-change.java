@@ -6,9 +6,7 @@ class Solution {
         int n = coins.length;
 
         int[] prev = new int[amount + 1];
-        int[] cur = new int[amount + 1];
 
-        // Base Case
         for (int t = 0; t <= amount; t++) {
             if (t % coins[0] == 0) {
                 prev[t] = t / coins[0];
@@ -18,6 +16,8 @@ class Solution {
         }
 
         for (int ind = 1; ind < n; ind++) {
+
+            int[] cur = new int[amount + 1];
 
             for (int t = 0; t <= amount; t++) {
 
@@ -32,7 +32,7 @@ class Solution {
                 cur[t] = Math.min(take, notTake);
             }
 
-            prev = cur.clone();
+            prev = cur;
         }
 
         int ans = prev[amount];
