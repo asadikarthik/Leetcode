@@ -5,16 +5,9 @@ class Solution {
 
         for(int i:nums)
         {
+            if(set.contains(i)) return true;
             set.add(i);
         }
-
-        if(set.size()!=nums.length)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
+        return false;
     }
 }
