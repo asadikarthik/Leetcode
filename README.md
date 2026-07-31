@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/asadikarthik/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/asadikarthik/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/asadikarthik/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/asadikarthik/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asadikarthik/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/asadikarthik/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/asadikarthik/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/asadikarthik/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
