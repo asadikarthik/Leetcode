@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/asadikarthik/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asadikarthik/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/asadikarthik/Leetcode/tree/main/0031-next-permutation/) | Medium |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/asadikarthik/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asadikarthik/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/asadikarthik/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0076-minimum-window-substring](https://github.com/asadikarthik/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
