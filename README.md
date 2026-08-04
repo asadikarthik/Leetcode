@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/asadikarthik/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/asadikarthik/Leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0322-coin-change](https://github.com/asadikarthik/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0455-assign-cookies](https://github.com/asadikarthik/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/asadikarthik/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asadikarthik/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/asadikarthik/Leetcode/tree/main/0455-assign-cookies/) | Easy |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Matrix
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/asadikarthik/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/asadikarthik/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asadikarthik/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/asadikarthik/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/asadikarthik/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,10 +236,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/asadikarthik/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -379,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
