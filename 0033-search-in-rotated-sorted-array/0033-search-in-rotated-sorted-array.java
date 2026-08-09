@@ -9,8 +9,6 @@ class Solution {
             if (nums[mid] == target) {
                 return mid;
             }
-
-            // Determine which side is sorted
             if (nums[left] <= nums[mid]) {
                
                 if (target >= nums[left] && target < nums[mid]) {
