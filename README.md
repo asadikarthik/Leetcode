@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/asadikarthik/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/asadikarthik/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/asadikarthik/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/asadikarthik/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/asadikarthik/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/asadikarthik/Leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/asadikarthik/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/asadikarthik/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/asadikarthik/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/asadikarthik/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
