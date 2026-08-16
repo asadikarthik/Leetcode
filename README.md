@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/asadikarthik/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/asadikarthik/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/asadikarthik/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/asadikarthik/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/asadikarthik/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/asadikarthik/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/asadikarthik/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0739-daily-temperatures](https://github.com/asadikarthik/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Divide and Conquer
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/asadikarthik/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/asadikarthik/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
