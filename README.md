@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/asadikarthik/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/asadikarthik/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/asadikarthik/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/asadikarthik/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asadikarthik/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/asadikarthik/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/asadikarthik/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
