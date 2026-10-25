@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/asadikarthik/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/asadikarthik/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/asadikarthik/Leetcode/tree/main/0090-subsets-ii/) | Medium |
+| [0120-triangle](https://github.com/asadikarthik/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/asadikarthik/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asadikarthik/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/asadikarthik/Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/asadikarthik/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/asadikarthik/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/asadikarthik/Leetcode/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/asadikarthik/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/asadikarthik/Leetcode/tree/main/0322-coin-change/) | Medium |
