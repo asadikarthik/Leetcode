@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/asadikarthik/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/asadikarthik/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/asadikarthik/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/asadikarthik/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/asadikarthik/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/asadikarthik/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/asadikarthik/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1463-cherry-pickup-ii](https://github.com/asadikarthik/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
