@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/asadikarthik/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/asadikarthik/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/asadikarthik/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/asadikarthik/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/asadikarthik/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/asadikarthik/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/asadikarthik/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/asadikarthik/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
