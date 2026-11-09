@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/asadikarthik/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/asadikarthik/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asadikarthik/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0204-count-primes](https://github.com/asadikarthik/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/asadikarthik/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/asadikarthik/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/asadikarthik/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2507-number-of-common-factors](https://github.com/asadikarthik/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/asadikarthik/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2507-number-of-common-factors](https://github.com/asadikarthik/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Array
 | Problem Name | Difficulty |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/asadikarthik/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/asadikarthik/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/asadikarthik/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/asadikarthik/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/asadikarthik/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/asadikarthik/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -531,4 +535,16 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/asadikarthik/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/asadikarthik/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/asadikarthik/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/asadikarthik/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
