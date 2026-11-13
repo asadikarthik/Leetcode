@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/asadikarthik/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/asadikarthik/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/asadikarthik/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/asadikarthik/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/asadikarthik/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/asadikarthik/Leetcode/tree/main/0860-lemonade-change/) | Easy |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asadikarthik/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/asadikarthik/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/asadikarthik/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0846-hand-of-straights](https://github.com/asadikarthik/Leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/asadikarthik/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/asadikarthik/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/asadikarthik/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/asadikarthik/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/asadikarthik/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/asadikarthik/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
