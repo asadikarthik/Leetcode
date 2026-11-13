@@ -26,11 +26,11 @@ class Solution {
         int profit= Integer.MIN_VALUE;
         if(buy==1)
         {
-            profit = Math.max(-prices[i]-fee+solve(dp,prices,i+1,0,fee), 0+solve(dp,prices,i+1,1,fee));
+            profit = Math.max(-prices[i]+solve(dp,prices,i+1,0,fee), 0+solve(dp,prices,i+1,1,fee));
         }
         else
         {
-            profit = Math.max(prices[i]+solve(dp,prices,i+1,1,fee) , 0+solve(dp,prices,i+1,0,fee));
+            profit = Math.max(prices[i]-fee+solve(dp,prices,i+1,1,fee) , 0+solve(dp,prices,i+1,0,fee));
         }
 
         dp[i][buy]=profit;
