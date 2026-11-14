@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/asadikarthik/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/asadikarthik/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0494-target-sum](https://github.com/asadikarthik/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/asadikarthik/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/asadikarthik/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/asadikarthik/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0403-frog-jump](https://github.com/asadikarthik/Leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/asadikarthik/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/asadikarthik/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/asadikarthik/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/asadikarthik/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/asadikarthik/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/asadikarthik/Leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0494-target-sum](https://github.com/asadikarthik/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -562,8 +565,10 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/asadikarthik/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/asadikarthik/Leetcode/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/asadikarthik/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/asadikarthik/Leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
