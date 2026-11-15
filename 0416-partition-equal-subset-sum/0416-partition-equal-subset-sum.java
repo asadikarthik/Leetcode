@@ -8,40 +8,28 @@ class Solution {
             total+=i;
         }
 
-        int dp[][] = new int[nums.length][total];
+        if(total % 2 != 0) return false;
 
-        for(int d[]:dp)
+        int dp[][] = new int[nums.length+1][total/2+1];
+
+        dp[nums.length][total / 2] = 1;
+
+        for(int i=nums.length-1;i>=0;i--)
         {
-            Arrays.fill(d,-1);
+            for(int sum=total/2;sum>=0;sum--)
+            {
+                int pick=0;
+                if(sum + nums[i] <= total / 2) {
+                    pick = dp[i + 1][sum + nums[i]];
+                }
+
+
+                int notpick = dp[i + 1][sum];
+
+                dp[i][sum] = (pick == 1 || notpick == 1) ? 1 : 0;
+            }
         }
 
-        return solve(nums, dp, 0, 0, total);
-    }
-
-    public boolean solve(int[] nums, int dp[][], int i, int sum,int total) {
-
-        if ((total-sum) == sum)
-        {   
-            return true;
-        }
-
-        if (i >= nums.length)
-        {
-            return false;
-        }
-
-        if(dp[i][sum]!=-1)
-        {
-            return dp[i][sum]==1;
-        }
-
-        boolean pick = solve(nums, dp, i + 1, sum + nums[i], total);
-
-        boolean notpick = solve(nums, dp, i + 1, sum, total);
-
-        dp[i][sum]= (pick || notpick)? 1 : 0;
-
-
-        return dp[i][sum]==1 ;
+        return dp[0][0]==1;
     }
 }
