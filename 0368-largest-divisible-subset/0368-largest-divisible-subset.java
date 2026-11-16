@@ -2,47 +2,48 @@ class Solution {
     public List<Integer> largestDivisibleSubset(int[] nums) {
 
         int n = nums.length;
-        List<Integer>[][] dp = new ArrayList[n][n + 1];
+
         Arrays.sort(nums);
 
-        return solve(nums,dp, 0, -1);
-    }
+        int dp[] = new int[n];
+        int hash[] = new int[n];
 
-    public List<Integer> solve(int nums[], List<Integer>[][] dp, int i, int prev) {
+        Arrays.fill(dp, 1);
 
-        if(i == nums.length) {
-            return new ArrayList<>();
+        int maxi = 1;
+        int lastIndex = 0;
+
+        for(int i = 0; i < n; i++) {
+
+            hash[i] = i;
+
+            for(int prev = 0; prev < i; prev++) {
+
+                if(nums[i] % nums[prev] == 0 &&
+                   dp[prev] + 1 > dp[i]) {
+
+                    dp[i] = dp[prev] + 1;
+                    hash[i] = prev;
+                }
+            }
+
+            if(dp[i] > maxi) {
+                maxi = dp[i];
+                lastIndex = i;
+            }
         }
 
-        if(dp[i][prev + 1] != null)
-        {
-            return new ArrayList<>(dp[i][prev + 1]);
+        List<Integer> ans = new ArrayList<>();
+
+        while(hash[lastIndex] != lastIndex) {
+            ans.add(nums[lastIndex]);
+            lastIndex = hash[lastIndex];
         }
 
-        List<Integer> pick = new ArrayList<>();
+        ans.add(nums[lastIndex]);
 
-        if(prev == -1 || nums[i] % nums[prev] == 0) {
+        Collections.reverse(ans);
 
-            pick = solve(nums,dp, i + 1, i);
-            pick.add(0, nums[i]);
-        }
-
-        // Not pick
-        List<Integer> notpick = solve(nums,dp, i + 1, prev);
-
-        List<Integer> ans;
-
-        if(pick.size() >= notpick.size())
-        {
-            ans = pick;
-        }
-        else
-        {
-            ans = notpick;
-        }
-
-        dp[i][prev + 1] = new ArrayList<>(ans);
-
-        return new ArrayList<>(dp[i][prev + 1]);
+        return ans;
     }
 }
