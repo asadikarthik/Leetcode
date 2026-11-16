@@ -4,33 +4,26 @@ import java.util.*;
 class Solution {
     public int lengthOfLIS(int[] nums) {
 
-        int dp[][] = new int[nums.length][nums.length + 1];
+        int n = nums.length;
 
-        for(int d[] : dp) {
-            Arrays.fill(d, Integer.MIN_VALUE);
+        int dp[][] = new int[n + 1][n + 1];
+
+        for(int i = n - 1; i >= 0; i--) {
+
+            for(int prev = i - 1; prev >= -1; prev--) {
+
+                int pick = 0;
+
+                if(prev == -1 || nums[prev] < nums[i]) {
+                    pick = 1 + dp[i + 1][i + 1];
+                }
+
+                int notpick = dp[i + 1][prev + 1];
+
+                dp[i][prev + 1] = Math.max(pick, notpick);
+            }
         }
 
-        return solve(nums, dp, 0, -1);
-    }
-
-    public int solve(int nums[], int dp[][], int i, int prev) {
-
-        if(i == nums.length) {
-            return 0;
-        }
-
-        if(dp[i][prev + 1] != Integer.MIN_VALUE) {
-            return dp[i][prev + 1];
-        }
-
-        int pick = 0;
-
-        if(prev == -1 || nums[prev] < nums[i]) {
-            pick = 1 + solve(nums, dp, i + 1, i);
-        }
-
-        int notpick = solve(nums, dp, i + 1, prev);
-
-        return dp[i][prev + 1] = Math.max(pick, notpick);
+        return dp[0][0];
     }
 }
