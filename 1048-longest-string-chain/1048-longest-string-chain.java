@@ -1,41 +1,36 @@
-class Solution {
-    public int longestStrChain(String[] words) {
+class Solution
+{
+    public int longestStrChain(String[] words)
+    {
 
         Arrays.sort(words, (a, b) -> a.length() - b.length());
 
         int n = words.length;
 
-        int dp[][] = new int[n][n + 1];
+        int dp[][] = new int[n+1][n + 1];
 
-        for(int d[] : dp) {
-            Arrays.fill(d, -1);
+        for(int i=n-1;i>=0;i--)
+        {
+            for(int prev = i - 1; prev >= -1;prev--)
+            {
+                int pick = 0;
+
+                if(prev == -1 || check(words[prev], words[i]))
+                {
+                    pick = 1 + dp[i + 1][i + 1];
+                }
+
+                int notpick = dp[i + 1][prev + 1];
+
+                dp[i][prev + 1] = Math.max(pick, notpick); 
+            }
         }
 
-        return solve(words, dp, 0, -1);
+        return dp[0][0];
     }
 
-    public int solve(String[] words, int dp[][], int i, int prev) {
-
-        if(i == words.length) {
-            return 0;
-        }
-
-        if(dp[i][prev + 1] != -1) {
-            return dp[i][prev + 1];
-        }
-
-        int pick = 0;
-
-        if(prev == -1 || check(words[prev], words[i])) {
-            pick = 1 + solve(words, dp, i + 1, i);
-        }
-
-        int notpick = solve(words, dp, i + 1, prev);
-
-        return dp[i][prev + 1] = Math.max(pick, notpick);
-    }
-
-    public boolean check(String s1, String s2) {
+    public boolean check(String s1, String s2)
+    {
 
         if(s2.length() != s1.length() + 1) {
             return false;
