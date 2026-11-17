@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0992-subarrays-with-k-different-integers](https://github.com/asadikarthik/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/asadikarthik/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/asadikarthik/Leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1048-longest-string-chain](https://github.com/asadikarthik/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/asadikarthik/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/asadikarthik/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/asadikarthik/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0455-assign-cookies](https://github.com/asadikarthik/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1048-longest-string-chain](https://github.com/asadikarthik/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/asadikarthik/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/asadikarthik/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/asadikarthik/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/asadikarthik/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1048-longest-string-chain](https://github.com/asadikarthik/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/asadikarthik/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/asadikarthik/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/asadikarthik/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1048-longest-string-chain](https://github.com/asadikarthik/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asadikarthik/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1446-consecutive-characters](https://github.com/asadikarthik/Leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/asadikarthik/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/asadikarthik/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1048-longest-string-chain](https://github.com/asadikarthik/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/asadikarthik/Leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/asadikarthik/Leetcode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Linked List
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/asadikarthik/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/asadikarthik/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/asadikarthik/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1048-longest-string-chain](https://github.com/asadikarthik/Leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/asadikarthik/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/asadikarthik/Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/asadikarthik/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
