@@ -7,7 +7,7 @@ class Solution
 
         int n = words.length;
 
-        int dp[][] = new int[n+1][n + 1];
+        int dp[] = new int[n + 1];
 
         for(int i=n-1;i>=0;i--)
         {
@@ -17,16 +17,16 @@ class Solution
 
                 if(prev == -1 || check(words[prev], words[i]))
                 {
-                    pick = 1 + dp[i + 1][i + 1];
+                    pick = 1 + dp[i + 1];
                 }
 
-                int notpick = dp[i + 1][prev + 1];
+                int notpick = dp[prev + 1];
 
-                dp[i][prev + 1] = Math.max(pick, notpick); 
+                dp[prev + 1] = Math.max(pick, notpick); 
             }
         }
 
-        return dp[0][0];
+        return dp[0];
     }
 
     public boolean check(String s1, String s2)
