@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0503-next-greater-element-ii](https://github.com/asadikarthik/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/asadikarthik/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/asadikarthik/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/asadikarthik/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/asadikarthik/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/asadikarthik/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0739-daily-temperatures](https://github.com/asadikarthik/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/asadikarthik/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/asadikarthik/Leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/asadikarthik/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/asadikarthik/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/asadikarthik/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/asadikarthik/Leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/asadikarthik/Leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -595,4 +597,13 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/asadikarthik/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/asadikarthik/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/asadikarthik/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/asadikarthik/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
